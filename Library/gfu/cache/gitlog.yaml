@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-13T19:21:39.784+02:00
+  initializedAtString: 2020-05-13T19:21:39.784+02:00
+  log:
+  - commitID: d803389b63af5d12695f6881bf1fa48fa3c22550
+    mergeA: 
+    mergeB: 
+    authorName: MaciekLabedzki
+    authorEmail: lamacho123@gmail.com
+    commitEmail: lamacho123@gmail.com
+    commitName: MaciekLabedzki
+    summary: Revert "Revert "Initial commit""
+    description: This reverts commit 7800d061a295137a59fc7984723743619a2dc384.
+    timeString: 2020-05-13T18:54:22.000+02:00
+    commitTimeString: 2020-05-13T18:54:22.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\_Unity\Projects\Saloon\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\_Unity\Projects\Saloon\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\_Unity\Projects\Saloon\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 7800d061a295137a59fc7984723743619a2dc384
+    mergeA: 
+    mergeB: 
+    authorName: MaciekLabedzki
+    authorEmail: lamacho123@gmail.com
+    commitEmail: lamacho123@gmail.com
+    commitName: MaciekLabedzki
+    summary: Revert "Initial commit"
+    description: This reverts commit 27fff455c8c5361d6c878b96b58c0122e4234190.
+    timeString: 2020-05-13T18:53:42.000+02:00
+    commitTimeString: 2020-05-13T18:53:42.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\_Unity\Projects\Saloon\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\_Unity\Projects\Saloon\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\_Unity\Projects\Saloon\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 27fff455c8c5361d6c878b96b58c0122e4234190
+    mergeA: 
+    mergeB: 
+    authorName: MaciekLabedzki
+    authorEmail: lamacho123@gmail.com
+    commitEmail: lamacho123@gmail.com
+    commitName: MaciekLabedzki
+    summary: Initial commit
+    description: 
+    timeString: 2020-05-13T18:48:46.000+02:00
+    commitTimeString: 2020-05-13T18:48:46.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\_Unity\Projects\Saloon\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\_Unity\Projects\Saloon\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\_Unity\Projects\Saloon\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
