@@ -13,17 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-05-13T19:21:25.091+02:00
-  initializedAtString: 2020-05-13T19:21:25.072+02:00
+  lastUpdatedAtString: 2020-06-08T20:05:13.649+02:00
+  initializedAtString: 2020-06-08T20:05:13.495+02:00
   localBranches:
   - name: master
-    tracking: 
+    tracking: origin/master
   remoteBranches:
-  - name: origin/master
+  - name: origin/HEAD
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/Maelren/SalonGier
+    url: https://github.com/Maelren/SalonGier.git
     login: 
     user: 
     host: 
@@ -35,25 +35,25 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/Maelren/SalonGier.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - master
+      - HEAD
     subKeyValues:
     - Values:
-      - name: master
+      - name: HEAD
         remote:
           name: origin
-          url: https://github.com/Maelren/SalonGier
+          url: https://github.com/Maelren/SalonGier.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/Maelren/SalonGier
+      url: https://github.com/Maelren/SalonGier.git
