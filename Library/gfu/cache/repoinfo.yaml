@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-05-13T19:21:19.229+02:00
-  initializedAtString: 2020-05-13T19:21:15.515+02:00
+  lastUpdatedAtString: 2020-06-08T19:12:39.637+02:00
+  initializedAtString: 2020-06-08T19:12:39.637+02:00
   currentGitRemote:
     name: origin
-    url: https://github.com/Maelren/SalonGier
+    url: https://github.com/Maelren/SalonGier.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Maelren/SalonGier.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/Maelren/SalonGier
+    url: https://github.com/Maelren/SalonGier.git
   currentHead: 
