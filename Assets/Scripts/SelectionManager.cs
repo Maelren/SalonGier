@@ -5,7 +5,11 @@ using UnityEngine;
 public class SelectionManager : MonoBehaviour
 {
     [SerializeField] private string SelectableTag = "selectable";
-    private Transform _selection;
+    [Range(1.0f, 5.0f)]
+    public float selectionDistance;
+
+    [HideInInspector]
+    public Transform _selection;
 
     void Update()
     {
@@ -18,7 +22,7 @@ public class SelectionManager : MonoBehaviour
 
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
-        if (Physics.Raycast(ray, out hit))
+        if (Physics.Raycast(ray, out hit, selectionDistance))
         {
             var selection = hit.transform;
             if (selection.CompareTag(SelectableTag))
