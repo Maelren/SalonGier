@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0FFD6993-68B3-9E00-D85E-AE0B46B05E6B}</ProjectGuid>
+    <ProjectGuid>{C6426F67-3A86-AFA4-5A0B-ED7A29623AD5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,32 +57,33 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\SelectionManager.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/_Unity/Installation/19.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

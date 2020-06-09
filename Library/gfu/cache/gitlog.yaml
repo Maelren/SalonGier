@@ -13,9 +13,321 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-06-08T20:06:16.785+02:00
-  initializedAtString: 2020-06-08T20:02:12.310+02:00
+  lastUpdatedAtString: 2020-06-09T16:24:27.827+02:00
+  initializedAtString: 2020-06-09T16:24:27.827+02:00
   log:
+  - commitID: e37ce4d5b9536e4bb194b158e300265fd919e5f9
+    mergeA: 
+    mergeB: 
+    authorName: MaciekLabedzki
+    authorEmail: lamacho123@gmail.com
+    commitEmail: lamacho123@gmail.com
+    commitName: MaciekLabedzki
+    summary: New Order - added colliders, prefab refactor
+    description: 
+    timeString: 2020-06-08T20:09:09.000+02:00
+    commitTimeString: 2020-06-08T20:09:09.000+02:00
+    changes:
+    - path: Assets\Prefabs.meta
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\ArcadeMachine.prefab
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Assets\Prefabs\ArcadeMachine.prefab
+      projectPath: Assets\Prefabs\ArcadeMachine.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\ArcadeMachine.prefab.meta
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Assets\Prefabs\ArcadeMachine.prefab.meta
+      projectPath: Assets\Prefabs\ArcadeMachine.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\0f\0f0ed975298752ee846422fa0a95926c
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\0f\0f0ed975298752ee846422fa0a95926c
+      projectPath: Library\Artifacts\0f\0f0ed975298752ee846422fa0a95926c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\0f\0f9bac0eb3a9091a50f7def5b8a07502
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\0f\0f9bac0eb3a9091a50f7def5b8a07502
+      projectPath: Library\Artifacts\0f\0f9bac0eb3a9091a50f7def5b8a07502
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\3d\3dc1d38a8d080069ba3d50575185b55e
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\3d\3dc1d38a8d080069ba3d50575185b55e
+      projectPath: Library\Artifacts\3d\3dc1d38a8d080069ba3d50575185b55e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\3e\3ec3756a5f7fe4fea653231e8b14a9d4
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\3e\3ec3756a5f7fe4fea653231e8b14a9d4
+      projectPath: Library\Artifacts\3e\3ec3756a5f7fe4fea653231e8b14a9d4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\43\431dede8a28c8dc05fafbfcceac6bb4b
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\43\431dede8a28c8dc05fafbfcceac6bb4b
+      projectPath: Library\Artifacts\43\431dede8a28c8dc05fafbfcceac6bb4b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\57\574a7400cfd3ea1c4a394f85d771bb08
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\57\574a7400cfd3ea1c4a394f85d771bb08
+      projectPath: Library\Artifacts\57\574a7400cfd3ea1c4a394f85d771bb08
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\63\632a02bd03fa5bf069a08a1e727d1899
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\63\632a02bd03fa5bf069a08a1e727d1899
+      projectPath: Library\Artifacts\63\632a02bd03fa5bf069a08a1e727d1899
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\67\6786680c7e1334e49076c1f1f44e9530
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\67\6786680c7e1334e49076c1f1f44e9530
+      projectPath: Library\Artifacts\67\6786680c7e1334e49076c1f1f44e9530
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\9e\9ec64d9359d78cd4357e0107f2070e15
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\9e\9ec64d9359d78cd4357e0107f2070e15
+      projectPath: Library\Artifacts\9e\9ec64d9359d78cd4357e0107f2070e15
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ab\abc0ccb5c25b89e0dc0ead1cc4ce780f
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\ab\abc0ccb5c25b89e0dc0ead1cc4ce780f
+      projectPath: Library\Artifacts\ab\abc0ccb5c25b89e0dc0ead1cc4ce780f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\f2\f224f7c94943c8552ab4b610ec15f9bb
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\f2\f224f7c94943c8552ab4b610ec15f9bb
+      projectPath: Library\Artifacts\f2\f224f7c94943c8552ab4b610ec15f9bb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\fd\fdf20278cb6fb91df00d74eadf0a0dd9
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\Artifacts\fd\fdf20278cb6fb91df00d74eadf0a0dd9
+      projectPath: Library\Artifacts\fd\fdf20278cb6fb91df00d74eadf0a0dd9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\1c816d-mainStage.json
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\StateCache\Hierarchy\1c816d-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\1c816d-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\33010b-mainStage.json
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\StateCache\Hierarchy\33010b-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\33010b-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\a95020-mainStage.json
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\StateCache\SceneView\a95020-mainStage.json
+      projectPath: Library\StateCache\SceneView\a95020-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\f34684-mainStage.json
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\StateCache\SceneView\f34684-mainStage.json
+      projectPath: Library\StateCache\SceneView\f34684-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\_Studia\PodstawyProgramowania\PROJEKT\SalonGier\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: d5047cec7ac105bc06fb7e6535dbdeb9bd33b83f
     mergeA: 
     mergeB: 

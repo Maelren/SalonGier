@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{19AE134F-AC2F-18D1-82CF-5DD736EFD48C}</ProjectGuid>
+    <ProjectGuid>{DE15E73D-4F5C-FD50-740F-741304DB481E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -60,37 +60,37 @@
      <None Include="Assets\Plugins\GitHub\Editor\credits.txt" />
      <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/_Unity/Projects/Saloon/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/_Unity/Installation/19.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -284,23 +284,23 @@
  <Reference Include="UnityEditor.Android.Extensions">
  <HintPath>D:/_Unity/Installation/19.3.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="GitHub.Unity.45">
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+ </Reference>
  <Reference Include="GitHub.Api.45">
- <HintPath>D:/_Unity/Projects/Saloon/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Logging">
- <HintPath>D:/_Unity/Projects/Saloon/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
- </Reference>
- <Reference Include="GitHub.Unity.45">
- <HintPath>D:/_Unity/Projects/Saloon/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
- </Reference>
- <Reference Include="GitHub.UnityShim">
- <HintPath>D:/_Unity/Projects/Saloon/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
  </Reference>
  <Reference Include="sfw.net">
- <HintPath>D:/_Unity/Projects/Saloon/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.UnityShim">
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>D:/_Unity/Projects/Saloon/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>D:/_Studia/PodstawyProgramowania/PROJEKT/SalonGier/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>D:/_Unity/Installation/19.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
