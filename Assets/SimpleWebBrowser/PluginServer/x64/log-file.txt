@@ -54,3 +54,739 @@
 2020-06-10 01:00:51,748 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
 2020-06-10 01:00:51,793 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:5f446112-a694-44c5-aef3-8c8425b0ce25,port:8695
 2020-06-10 01:01:15,162 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-10 18:44:40,581 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-10 18:44:40,642 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:45ddf920-9906-45ba-9249-c51175090a34,port:8110
+2020-06-10 18:45:45,744 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-10 18:46:05,485 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-10 18:46:05,540 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:6d7ec66a-74dc-49c8-ba81-e2b0e654ce5d,port:8066
+2020-06-10 18:46:18,928 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-10 18:46:37,049 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-10 18:46:37,117 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://AoE2ResourceCalculator.maelren.repl.run,memfile:b4c2f563-1e15-4b61-800c-73c76d4dbae9,port:8213
+2020-06-10 18:46:53,903 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-10 18:46:57,683 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-10 18:46:57,732 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://AoE2ResourceCalculator.maelren.repl.run,memfile:d06281f3-2fbb-4c65-b1c9-f5c163355c43,port:8040
+2020-06-10 18:47:24,216 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-10 18:47:39,697 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-10 18:47:39,750 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:2857e864-f7f3-4519-84f2-eb212357becf,port:8457
+2020-06-10 18:48:28,969 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-10 18:49:55,267 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-10 18:49:55,363 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:93b97a08-83cb-49a3-b79a-ce780bc2819b,port:8681
+2020-06-10 18:50:33,668 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-10 18:50:47,254 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-10 18:50:47,325 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:5e1ed47a-707b-4565-8c27-74596bb6b8e2,port:8156
+2020-06-10 18:52:54,825 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-10 18:59:14,862 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-10 18:59:14,931 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:653963fb-50c9-4f13-a0cc-f094a76413ab,port:8393
+2020-06-10 18:59:51,735 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-10 19:01:08,046 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-10 19:01:08,098 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:3092b07c-a707-4dfe-87e0-1aeb8357a2e4,port:8168
+2020-06-10 19:01:57,736 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-12 19:42:39,192 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-12 19:42:39,234 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:c9488576-7741-437c-bd90-44c788612f08,port:8112
+2020-06-12 19:42:53,089 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-12 19:45:56,731 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-12 19:45:56,778 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:18b53da3-48c6-4711-a330-f23175a37dc6,port:8665
+2020-06-12 19:46:12,743 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-12 19:46:33,769 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-12 19:46:33,815 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:9d75e087-b6a1-415e-aec6-4ce035ba5edb,port:8597
+2020-06-12 19:46:52,560 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:02:24,251 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:02:24,288 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:cb09ce32-3080-4bbd-9678-982391fc5cde,port:8187
+2020-06-13 00:02:33,826 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:16:53,405 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:16:53,446 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:206985f3-34c6-4a43-880b-bfd913d31748,port:8284
+2020-06-13 00:16:57,962 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:17:01,225 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:17:01,266 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:f076f140-dcd3-49cd-a386-2d2503174662,port:8829
+2020-06-13 00:17:21,953 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:22:33,510 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:22:33,587 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:067ba7a4-9638-4034-a5ff-4ed45dcb4618,port:8894
+2020-06-13 00:22:48,634 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2020-06-13 00:22:48,635 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:22:49,344 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-13 00:22:50,511 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-13 00:22:53,422 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:22:53,524 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:067ba7a4-9638-4034-a5ff-4ed45dcb4618,port:8894
+2020-06-13 00:22:59,605 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-13 00:22:59,716 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:22:59,759 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1280,height:720,url:http://test.webrtc.org,memfile:MainSharedMem,port:8885
+2020-06-13 00:23:56,084 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:23:56,126 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:4758e669-5f05-43e3-a923-a0243a9c5da1,port:8195
+2020-06-13 00:24:04,868 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:26:09,810 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:26:09,852 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:39d6cc4f-f224-4365-b4b9-c0d87aa11319,port:8863
+2020-06-13 00:26:27,929 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:26:47,768 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:26:47,810 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:4294c7bb-4a3c-4d9c-8da1-34e09b66fd7d,port:8830
+2020-06-13 00:27:17,874 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:29:13,386 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:29:13,432 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:958e20a6-07f4-4f35-ab58-8b213930cd6d,port:8657
+2020-06-13 00:29:27,305 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:40:08,446 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:40:08,493 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:2433428b-ec95-40ef-813c-5cb76daaad4c,port:8151
+2020-06-13 00:40:13,976 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:40:57,325 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:40:57,366 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:5b626fd9-260c-453a-b7c2-3427346ce152,port:8047
+2020-06-13 00:41:05,614 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:42:34,073 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:42:34,117 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:d48239ef-8ddc-4918-8b4c-4cefe8526532,port:8337
+2020-06-13 00:42:43,054 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:44:21,146 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:44:21,188 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:bdc35076-7c02-4b16-9f50-3bd1171429ff,port:8595
+2020-06-13 00:44:27,296 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:46:07,033 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:46:07,075 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:9d2c1e44-836b-476f-b4ee-6bdf5023de7a,port:8734
+2020-06-13 00:46:17,118 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:46:46,428 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:46:46,471 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:1a3ec098-12ee-4376-91ee-fb74bf4b2ac7,port:8067
+2020-06-13 00:47:51,354 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:48:19,923 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:48:19,965 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:c668dd1d-78e7-4bb8-a075-de38e772c9ac,port:8834
+2020-06-13 00:48:25,646 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 00:48:59,013 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 00:48:59,057 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:8ec9856c-aa05-4515-8f88-aac3fad07b33,port:8170
+2020-06-13 00:49:07,634 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:01:48,128 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:01:48,162 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:407e8c89-a27a-4667-a267-96638eec4452,port:8258
+2020-06-13 01:02:06,187 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:02:16,658 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:02:16,699 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:b9b949ab-e339-40cb-9b09-db7537996870,port:8379
+2020-06-13 01:02:41,937 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:05:39,623 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:05:39,666 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:738e026d-bb65-4ea2-a6ef-ff53304f9cea,port:8164
+2020-06-13 01:05:54,237 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:06:39,143 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:06:39,184 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:0068e231-2bfe-4060-a579-6f11ea04cd25,port:8613
+2020-06-13 01:06:52,366 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:07:34,494 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:07:34,536 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:785d7455-720c-4b73-84dc-f66c7219cf30,port:8772
+2020-06-13 01:07:55,050 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:08:39,514 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:08:39,555 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:99d5d994-8102-4f25-a0ee-f846814c6a80,port:8613
+2020-06-13 01:08:49,040 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:09:08,769 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:09:08,811 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:22f9776a-bc79-4db2-9c93-56160577c3eb,port:8553
+2020-06-13 01:09:26,772 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:09:43,097 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:09:43,139 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:e70377fd-15af-46a5-856c-07ce64f90c51,port:8533
+2020-06-13 01:09:48,384 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:15:06,282 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:15:06,328 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:c5c06bc5-4e10-4a6a-8243-fde8ac4d9cd9,port:8746
+2020-06-13 01:15:29,964 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:15:58,108 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:15:58,149 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:528e18e3-7d16-4452-9973-5c237221d77c,port:8221
+2020-06-13 01:16:09,162 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:17:00,951 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:17:00,992 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:7daa3250-e471-4a4f-abd4-6d5a9b3dde55,port:8517
+2020-06-13 01:17:07,661 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:17:27,579 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:17:27,621 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:147f653b-5cb7-4b5c-873c-e29733fd6c77,port:8091
+2020-06-13 01:17:33,362 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:17:43,187 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:17:43,228 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:1482ea10-d0a6-4444-b696-def725e5d550,port:8628
+2020-06-13 01:17:56,633 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:22:14,997 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:22:15,102 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:ceccb2a6-0146-431f-ae90-baf24962c8d4,port:8157
+2020-06-13 01:22:31,133 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:31:34,997 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:31:35,089 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:45ba11af-0d4e-47be-a975-fae8759cbf65,port:8939
+2020-06-13 01:31:49,848 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:32:33,887 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:32:33,937 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:67817f7a-e8dd-4c0b-90f3-601d3b496975,port:8228
+2020-06-13 01:32:44,940 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:34:10,906 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:34:10,949 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:ea29189f-5bce-4ce6-88aa-b92fb53c68d1,port:8037
+2020-06-13 01:34:28,887 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:43:18,141 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:43:18,181 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:37c10590-c942-41d4-9743-1ddee800a500,port:8987
+2020-06-13 01:43:22,940 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:46:34,495 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:46:34,536 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:a29bc3da-1e14-4ee0-8ddc-53196dae27a3,port:8007
+2020-06-13 01:46:42,152 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:52:21,672 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:52:21,714 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:0355d444-0940-4059-9e54-d3b93133e881,port:8448
+2020-06-13 01:52:32,231 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:55:42,805 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:55:42,864 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:ae4eda7f-2bd6-4a14-920d-a9fcbf220561,port:8240
+2020-06-13 01:55:48,374 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:56:13,567 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:56:13,610 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:1aa3eae3-17e0-4d72-bf8e-3842076ca733,port:8013
+2020-06-13 01:56:21,621 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:56:30,388 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:56:30,430 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:3cbfe5f8-3708-4334-b552-163719d37b98,port:8387
+2020-06-13 01:56:34,737 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 01:59:02,588 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 01:59:02,630 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:eb912af8-e7fd-4881-bb35-6024d9e939ca,port:8250
+2020-06-13 01:59:16,203 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:06:51,464 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:06:51,505 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:11f87510-65fc-41b0-9d03-560f09c9c067,port:8419
+2020-06-13 02:07:03,861 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:08:39,343 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:08:39,385 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:da488181-b2d3-42a4-82c2-90b1680d126e,port:8887
+2020-06-13 02:08:52,350 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:09:04,728 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:09:04,772 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:fc84438a-69b3-48f6-9bed-8d82a0a7bd75,port:8429
+2020-06-13 02:09:13,124 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:10:27,648 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:10:27,689 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:ecd2e2e3-f43d-4480-89dd-c07d785764b2,port:8981
+2020-06-13 02:10:46,888 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:25:15,858 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:25:15,899 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:813b571e-fa31-4e70-b867-072a8061e854,port:8071
+2020-06-13 02:25:21,525 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:27:10,163 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:27:10,204 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:184e4b9d-9c60-442c-a1db-59e1e0f67d06,port:8717
+2020-06-13 02:27:35,215 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:34:03,833 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:34:03,874 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:f95bbe05-cb58-4d50-a621-84d002117a30,port:8442
+2020-06-13 02:34:25,716 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:44:08,725 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:44:08,766 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:3106ea14-ab25-434f-848e-2a1da85c38ae,port:8290
+2020-06-13 02:44:19,396 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:50:31,981 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:50:32,029 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:edd115a2-a2ca-4150-92b4-8649f927366a,port:8792
+2020-06-13 02:50:40,864 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:51:53,925 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:51:53,968 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:baad1494-d56d-4146-ac7f-014efb8a6e88,port:8113
+2020-06-13 02:51:59,935 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:52:28,335 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:52:28,377 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:170c3aa9-6808-41c1-bc31-4ce15c9fe5ff,port:8201
+2020-06-13 02:52:42,542 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:53:52,109 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:53:52,152 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:94f1d96a-f7f4-4d74-be91-4087dcadf602,port:8516
+2020-06-13 02:54:02,475 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:55:09,140 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:55:09,189 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:5f5d0380-10f9-4381-958a-020cf7e7caac,port:8461
+2020-06-13 02:55:15,214 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:55:24,671 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:55:24,713 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:8445405f-b7d2-4fc9-a235-7924ac10056c,port:8248
+2020-06-13 02:55:37,823 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:56:31,678 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:56:31,720 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:5e3d693f-73f7-40f4-b35e-4e1277ab1a77,port:8744
+2020-06-13 02:57:09,473 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 02:58:21,419 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 02:58:21,461 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:adc05ef6-174b-4215-b5eb-215ece570085,port:8923
+2020-06-13 02:58:33,983 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:02:28,104 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:02:28,154 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:d67c3653-4cb0-4b80-bfa4-b826376a2aec,port:8620
+2020-06-13 03:02:49,652 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:04:51,097 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:04:51,139 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:fb6aba41-3ae5-4446-a493-3d4fc3d23d71,port:8440
+2020-06-13 03:05:00,492 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:05:24,344 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:05:24,385 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:19e4ad03-f8b4-4eb3-bd0c-afc268377a57,port:8081
+2020-06-13 03:05:45,986 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:06:19,104 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:06:19,147 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:17105642-6f9f-44ea-8463-56b3da52227f,port:8867
+2020-06-13 03:06:24,234 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:06:29,961 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:06:30,006 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:ac3a5093-b6e5-48dd-b84e-fca7e95dbaf9,port:8406
+2020-06-13 03:06:40,588 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:06:53,480 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:06:53,521 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:9bc8b8a2-c4d7-4cbb-b33c-42f37b7fdf17,port:8596
+2020-06-13 03:06:59,251 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:07:16,914 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:07:16,963 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:ee64925d-7c87-408f-8000-e79a55ea32cb,port:8483
+2020-06-13 03:07:26,508 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:08:39,199 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:08:39,240 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:d945ed0d-5510-4934-bbe3-3a461cea0814,port:8519
+2020-06-13 03:08:51,613 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:09:52,360 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:09:52,406 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:7649045f-2e47-4430-a69d-c7c09ebdd914,port:8424
+2020-06-13 03:09:56,550 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:09:59,971 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:10:00,021 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:42580564-6a77-489b-be9a-972c121e7aac,port:8559
+2020-06-13 03:10:29,619 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:11:36,476 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:11:36,517 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:2c6ab463-5139-4cd3-8b45-6cc9496f437e,port:8601
+2020-06-13 03:11:40,665 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:12:02,473 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:12:02,515 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:db4f5570-dea8-445d-964b-19162232e0d7,port:8660
+2020-06-13 03:12:08,773 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:13:16,872 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:13:16,913 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:53cfd8e3-d50a-422d-ad50-ed808925c581,port:8238
+2020-06-13 03:13:29,588 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:14:49,692 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:14:49,735 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:efb26ade-c639-4c6c-8432-1ae99e702c24,port:8098
+2020-06-13 03:14:53,996 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:15:08,064 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:15:08,105 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:3b035668-9195-4d2b-b414-a5da096054f1,port:8663
+2020-06-13 03:15:15,250 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 03:15:44,605 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 03:15:44,646 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:9591e22c-8553-4bde-bf6f-9da170b0d90a,port:8741
+2020-06-13 03:15:58,811 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-13 13:40:30,314 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 13:40:30,482 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:http://aoe2resourcecalculator.maelren.repl.run,memfile:238c2565-d1a9-49d0-917f-9b0dbed12507,port:80
+2020-06-13 13:40:39,872 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-13 13:41:04,996 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 13:41:05,039 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://aoe2resourcecalculator.maelren.repl.run,memfile:80,port:1
+2020-06-13 13:41:10,309 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-13 13:42:16,363 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 13:42:16,406 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://aoe2resourcecalculator.maelren.repl.run,memfile:40661569-b3a4-45d6-80fa-2216998b5a38,port:80
+2020-06-13 13:42:22,339 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-13 13:44:10,071 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-13 13:44:10,113 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:b8fc3411-5897-46a3-b3a4-36ac5c2f1f32,port:433
+2020-06-13 13:46:20,717 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-17 17:10:55,067 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-17 17:10:55,448 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:663910cb-1f23-4174-b8ee-caba9bb501f1,port:433
+2020-06-17 17:11:30,691 [4] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-17 17:11:35,661 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-17 17:11:35,705 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:67f0f41a-10ac-4369-a117-9ab19d348265,port:433
+2020-06-17 17:12:28,620 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-17 17:12:32,491 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-17 17:12:32,535 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:dbff58c1-e8d6-46c3-9163-647277d1965d,port:433
+2020-06-17 17:14:02,416 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 19:39:12,048 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 19:39:12,416 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:9f6e3279-000e-46c5-a19c-7ea9020b3025,port:433
+2020-06-22 19:39:26,538 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-22 19:40:00,497 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 19:40:05,169 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 19:40:05,214 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:4f1bb039-db44-4a4c-b719-d934b971dd55,port:433
+2020-06-22 19:40:23,668 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 19:40:49,287 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 19:40:49,335 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:bd5373f4-41c2-4f41-bb87-415e7a08484a,port:433
+2020-06-22 19:40:58,720 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 19:47:23,810 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 19:47:23,858 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:fc7bc82c-3cb1-4369-9b04-5cbaecc2d593,port:433
+2020-06-22 19:47:38,374 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 19:49:45,208 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 19:49:45,256 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:77da9fa3-7382-4937-b470-2eaa0850eaa4,port:433
+2020-06-22 19:49:53,840 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 19:50:16,408 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 19:50:16,450 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:fa2826f0-ccea-43ec-8795-921da71f87ec,port:433
+2020-06-22 19:50:55,728 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 19:52:58,752 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 19:52:58,795 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:d9871637-f3b5-4483-9f85-2656ddf3b7b2,port:433
+2020-06-22 19:53:24,569 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 19:55:57,233 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 19:55:57,276 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:0d8ebeae-5488-48b7-9427-a784671a0825,port:433
+2020-06-22 19:56:22,821 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 20:00:21,779 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 20:00:21,826 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:a43e1fdb-ddae-4a3f-9051-b3f630db1223,port:433
+2020-06-22 20:00:35,289 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 20:02:19,145 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 20:02:19,193 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:53cf52d5-bda1-44b1-b9d2-63e4bab3ef21,port:433
+2020-06-22 20:02:37,319 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 20:03:16,717 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 20:03:16,764 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:d693e04d-9ad4-457c-9830-4748fa9bc2e4,port:433
+2020-06-22 20:03:43,415 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 20:06:21,970 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 20:06:22,011 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:f171d3ad-4324-407c-b6c5-3cf8917a31d7,port:433
+2020-06-22 20:07:38,638 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 20:08:44,496 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 20:08:44,538 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:f307a767-f40e-4aa9-bdd7-80881098b2d3,port:433
+2020-06-22 20:11:17,058 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 20:11:37,815 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 20:11:37,866 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:2294e4fa-da89-4627-8922-f4cfa033e9cb,port:433
+2020-06-22 20:12:13,421 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 20:19:19,186 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 20:19:19,234 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:0ea8ff01-888a-4f0a-a5f4-b85ea2698d00,port:433
+2020-06-22 20:19:27,879 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 23:20:12,467 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 23:20:12,650 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:5ba1136f-bb94-459d-b567-e3473ecaa3ff,port:433
+2020-06-22 23:20:22,767 [4] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 23:29:30,851 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 23:29:30,912 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:4b9b0ece-c22a-4760-9e90-15427ddd1534,port:433
+2020-06-22 23:30:07,453 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 23:40:42,761 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 23:40:42,803 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:d3792b51-d0e3-4de0-bd6b-3012a2808490,port:433
+2020-06-22 23:40:52,477 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 23:53:23,797 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 23:53:23,840 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:437c418c-7e9a-4135-8109-d5680a621ce2,port:433
+2020-06-22 23:53:36,650 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-22 23:58:53,164 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-22 23:58:53,206 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:aa18c16a-beb7-400b-b2e2-423a60df7944,port:433
+2020-06-22 23:59:08,492 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:00:37,457 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:00:37,507 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:fc64674c-2ab0-4cfc-b0cd-17925ade68cf,port:433
+2020-06-23 00:01:26,370 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:03:11,667 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:03:11,714 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:9abde6a4-feae-4afa-ac50-f05df0684ee8,port:433
+2020-06-23 00:03:22,701 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:03:58,566 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:03:58,609 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:8f1bb02a-1e9e-45e9-a8e6-36d45a0ca4a6,port:433
+2020-06-23 00:04:07,532 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:04:31,139 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:04:31,182 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:537f40a6-144d-4cba-a8cf-06e69378b2f6,port:433
+2020-06-23 00:04:46,965 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:05:09,681 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:05:09,727 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:7ae0e73a-7e40-48a9-bbcc-0ebc9fde8f92,port:433
+2020-06-23 00:05:28,952 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:12:07,938 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:12:07,982 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:5006340c-7e3a-4f04-a268-3ef773e469f6,port:433
+2020-06-23 00:12:19,792 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:17:07,861 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:17:07,913 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:769c8a0e-d9b9-4dce-951b-3cb21166c847,port:433
+2020-06-23 00:17:47,185 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:19:21,731 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:19:21,775 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:d4f6e313-a07d-4121-818e-71919ff7873c,port:433
+2020-06-23 00:19:32,564 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:19:45,656 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:19:45,699 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:06a79c41-be0d-43ce-91a6-bfe8d516ac19,port:433
+2020-06-23 00:19:59,682 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:20:30,632 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:20:30,683 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:c2982be2-8e33-47dc-8c3e-1767ff2e6efa,port:433
+2020-06-23 00:20:50,030 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:22:30,427 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:22:30,473 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:61f04f9c-622a-431b-a693-f4421c61da15,port:433
+2020-06-23 00:22:41,279 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:29:26,990 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:29:27,110 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:ff76600d-0dda-4670-bd91-32c5d2001e29,port:433
+2020-06-23 00:29:30,509 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:29:34,356 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:29:34,400 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:2aba421a-f22b-4d01-80a8-4b0e9f002cc3,port:433
+2020-06-23 00:29:39,540 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:30:16,436 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:30:16,491 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:141e05e4-2384-405f-8c16-61c43d2221f4,port:433
+2020-06-23 00:30:51,973 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 00:35:10,443 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 00:35:10,486 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:2372508c-718b-4143-aa71-437f9558029f,port:433
+2020-06-23 00:35:16,091 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:00:40,976 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:00:41,024 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:a0afc8a7-0a3e-4875-8c00-336f5da6c33d,port:433
+2020-06-23 01:01:30,729 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:03:12,288 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:03:12,336 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:b7c4da9b-5d97-4e5d-ab11-7f1129d44986,port:433
+2020-06-23 01:03:21,942 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:09:51,794 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:09:51,838 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:cc2dfa3a-1018-43e5-a2bf-cc3bdb55108d,port:433
+2020-06-23 01:10:06,409 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:16:26,703 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:16:26,747 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:a97f5883-1a89-46b6-a377-ba23e5fb52bf,port:433
+2020-06-23 01:16:49,978 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:18:31,916 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:18:31,964 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:7d132af8-86fc-4456-933f-59c2cd41de5f,port:433
+2020-06-23 01:18:59,600 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:19:16,899 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:19:16,943 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:7880af6f-f938-489d-a54c-775cae41f64a,port:433
+2020-06-23 01:19:22,739 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:20:11,100 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:20:11,142 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:2b4dce3c-f7df-4b76-bc3f-8e89858214c4,port:433
+2020-06-23 01:20:28,258 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:23:51,918 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:23:51,964 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:332e64c0-6f89-4e19-a3d2-f2450517ed29,port:433
+2020-06-23 01:24:12,944 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:31:05,383 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:31:05,426 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:07a68ac5-5ac7-4f1d-ba37-07800eb6c813,port:433
+2020-06-23 01:31:33,856 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:48:36,347 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:48:36,389 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:5a6104d3-5dd9-48bf-b875-229b16f9c2da,port:433
+2020-06-23 01:48:48,891 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 01:58:22,487 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 01:58:22,529 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:025108cc-aa10-4bed-ba99-b7d49664b6a7,port:433
+2020-06-23 01:58:43,015 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 02:14:30,538 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 02:14:30,585 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:b9bd9bdb-4687-4dd3-83f6-c3092899af90,port:433
+2020-06-23 02:15:02,342 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 02:16:05,017 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 02:16:05,061 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:1b5639a5-cac5-4ed7-9295-1195651e192c,port:433
+2020-06-23 02:16:31,282 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 02:17:35,937 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 02:17:35,986 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:0c0a87af-cad2-4f75-a37e-b6e62d6df2f5,port:433
+2020-06-23 02:18:18,427 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 02:48:32,431 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 02:48:32,481 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:dfce3708-d9b5-4f5c-ac6b-b3b005896dfd,port:433
+2020-06-23 02:48:56,251 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 02:52:18,519 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 02:52:18,561 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:054e02e5-9cf0-42bc-bb3d-618483619054,port:433
+2020-06-23 02:52:55,157 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 02:54:17,959 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 02:54:18,004 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:5416a553-0794-43a5-86c4-07e8ba898b42,port:433
+2020-06-23 02:54:23,964 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 02:54:29,776 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 02:54:29,820 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:e38b9abd-d056-4878-b652-1f3f4461fcc4,port:433
+2020-06-23 02:54:48,345 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 02:55:11,858 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 02:55:11,900 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:ae19900b-5141-4da2-931c-06efca6245a5,port:433
+2020-06-23 02:55:35,670 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 02:55:53,755 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 02:55:53,796 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:60605ae8-242b-4289-9cdb-79b13eb038ce,port:433
+2020-06-23 02:56:26,937 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 03:12:06,476 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 03:12:06,523 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:79de86a5-d821-4a8e-ab67-db7312ab35e1,port:433
+2020-06-23 03:12:11,023 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 03:12:23,899 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 03:12:23,956 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:04ff0476-5407-49ea-bdca-74141645d200,port:433
+2020-06-23 03:12:40,524 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 03:22:33,590 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 03:22:33,633 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:d9a308f2-6e17-48ab-9059-b822611042c7,port:433
+2020-06-23 03:23:07,656 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 03:24:34,081 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 03:24:34,123 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:fda6920c-9f80-45df-996e-12922ad68314,port:433
+2020-06-23 03:25:09,445 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 03:26:01,173 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 03:26:01,219 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:7ccdb2ba-d443-4e67-b991-f3d494f1b9b6,port:433
+2020-06-23 03:26:07,978 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 03:26:25,947 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 03:26:25,990 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:e932696a-75ac-4962-8dc4-d66088c69982,port:433
+2020-06-23 03:26:45,949 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 03:27:37,071 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 03:27:37,113 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:800,height:600,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:be8fd581-4e70-4e6f-b208-972623620dd6,port:433
+2020-06-23 03:28:02,156 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 21:47:04,543 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 21:47:04,584 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:google.com,memfile:418b89b0-6592-4987-b633-2c3484a91de3,port:8214
+2020-06-23 21:47:11,491 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 22:30:49,830 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 22:30:49,878 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:http://www.google.com,memfile:2c4243a4-a7b2-4eaa-afa9-10f3fc2a2357,port:8609
+2020-06-23 22:31:00,323 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 22:33:26,655 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 22:33:26,696 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:http://www.google.com,memfile:fc923b19-8fab-4090-a39c-327c8156fc7b,port:8526
+2020-06-23 22:33:37,540 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 22:45:08,669 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 22:45:08,718 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:http://www.google.com,memfile:07bf3369-0ea7-4b2e-b5c4-a482bb7fc9e6,port:8312
+2020-06-23 22:45:16,150 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 22:53:50,404 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 22:53:50,448 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:wp.pl,memfile:c17743b2-52b4-46af-aec3-3f732adc4b13,port:8525
+2020-06-23 22:53:54,161 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 23:01:12,847 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 23:01:12,894 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:wp.pl,memfile:8035fe95-d009-43e9-a4d7-b8c26605ad66,port:8455
+2020-06-23 23:01:17,627 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 23:06:11,753 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 23:06:11,797 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:5c38e453-30d5-4c0d-a439-28799ebb4a39,port:8038
+2020-06-23 23:07:26,414 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 23:07:35,891 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 23:07:35,934 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/OneArmBanditMethods#main.cs,memfile:feebcd80-59d2-4141-bd11-d078bfb6c64a,port:8263
+2020-06-23 23:08:29,905 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 23:08:55,853 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 23:08:55,899 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:6df68fa9-9567-4473-ba0a-be2a3f501e38,port:8093
+2020-06-23 23:09:17,178 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-23 23:32:45,511 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-23 23:32:45,556 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/PaperScissorRock#main.cs,memfile:c829bbdf-01e9-4303-8791-4f387b142cd9,port:8578
+2020-06-23 23:32:47,628 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:04:31,877 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:04:31,928 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:bed92503-d095-4506-b79c-8a7e5be3a2c8,port:8777
+2020-06-24 00:04:42,553 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:08:43,429 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:08:43,471 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:42217428-417a-4c78-bc2f-6f57d610659e,port:8657
+2020-06-24 00:08:46,386 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:11:14,217 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:11:14,260 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:6948ce75-86a0-42df-948b-431456414f75,port:8468
+2020-06-24 00:11:21,983 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:11:52,184 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:11:52,231 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:2560f613-c4b2-4202-94bc-97135b0d86cc,port:8271
+2020-06-24 00:11:54,848 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:12:21,591 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:12:21,632 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:75c4654e-423f-493f-8036-03066493d184,port:8873
+2020-06-24 00:12:31,272 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:12:53,247 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:12:53,296 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:3292c9c8-22ee-4ee2-9e0d-a04169167e7b,port:8769
+2020-06-24 00:12:55,369 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:13:09,809 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:13:09,850 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:e725fcad-7fd3-4549-8d8d-1a26c591f146,port:8700
+2020-06-24 00:13:12,302 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:13:27,024 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:13:27,066 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:a074ff22-254a-4611-b024-4457cfed3436,port:8341
+2020-06-24 00:13:29,441 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:13:42,212 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:13:42,253 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:98f10a46-dc46-4485-bcce-d5c8c2f503ff,port:8414
+2020-06-24 00:13:45,976 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:15:34,507 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:15:34,549 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:4d597ea7-77e9-4ec0-9e98-2644b9bbc453,port:8210
+2020-06-24 00:15:45,161 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:16:16,326 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:16:16,369 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/AoE2ResourceCalculator#main.cs,memfile:76e13f8a-7a01-41ea-a366-f8196af57dc2,port:8857
+2020-06-24 00:16:22,883 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:16:39,373 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:16:39,415 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:09570256-7af8-4f1d-bfe7-32af2c3f8d84,port:8193
+2020-06-24 00:16:46,315 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:17:01,024 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:17:01,066 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:4465607b-eb3b-40df-95df-eb9335cbf98a,port:8195
+2020-06-24 00:17:05,803 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:17:21,296 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:17:21,338 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:1e3c8225-d10c-471f-942c-7f550b48fda7,port:8666
+2020-06-24 00:17:40,270 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:17:49,679 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:17:49,720 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:45cb03ec-fb02-4bb2-9b56-b0d68cc387f4,port:8321
+2020-06-24 00:17:53,272 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:19:23,700 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:19:23,742 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:771f96a2-8912-4a0b-93da-eb964cbb34c1,port:8300
+2020-06-24 00:19:27,093 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:21:16,130 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:21:16,171 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:d0378231-c952-4eb4-934c-c4aaa5e15c78,port:8758
+2020-06-24 00:21:19,025 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:22:14,630 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:22:14,672 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/MemorySkeleton#main.cs,memfile:be0b96e5-60aa-40a6-bdf3-07be34e602f5,port:8998
+2020-06-24 00:22:15,782 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:34:36,835 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:34:36,885 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/PaperScissorRock#main.cs,memfile:01914282-5ffa-48c4-a969-6f2a107a79e6,port:8274
+2020-06-24 00:34:50,469 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:34:54,544 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:34:54,585 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/OneArmBanditMethods#main.cs,memfile:95002925-19e5-4a1a-b1a1-13e1a921bb0b,port:8128
+2020-06-24 00:34:56,817 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:36:27,068 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:36:27,116 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/OneArmBanditMethods#main.cs,memfile:e99306c8-9329-4df4-a24d-0276ecaa685c,port:8470
+2020-06-24 00:36:34,006 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:45:16,018 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:45:16,060 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:http://www.google.com,memfile:e6810d86-41f3-4158-875e-59fee6411884,port:8548
+2020-06-24 00:45:49,105 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:46:03,888 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:46:03,929 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:http://www.google.com,memfile:906c6a34-cfb7-41a5-a230-6b593f04a855,port:8465
+2020-06-24 00:46:41,603 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:47:36,390 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:47:36,432 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/OneArmBanditMethods#main.cs,memfile:f242be2c-789c-4e2b-a880-4c5dc8876e8d,port:8361
+2020-06-24 00:48:15,414 [10] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:57:24,026 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:57:24,092 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:632010a0-83b0-4016-bf42-ee01a0fcccef,port:8330
+2020-06-24 00:57:38,800 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:57:44,257 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:57:44,301 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:792c93b1-23db-4914-947f-94636ff9993f,port:8705
+2020-06-24 00:57:55,599 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:58:14,908 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:58:14,952 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:536e5eaf-093f-489f-93c5-b30193fefa5c,port:8980
+2020-06-24 00:59:08,441 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 00:59:59,351 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 00:59:59,404 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:98e011f9-838e-4ba2-9531-ae2299093935,port:8676
+2020-06-24 01:01:20,623 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:04:51,525 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:04:51,568 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:9c146854-674b-4406-be65-49f4d4b7e72e,port:8920
+2020-06-24 01:06:16,231 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:11:31,022 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:11:31,069 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:9a890299-b61a-4fae-bab3-db1b6e2e196f,port:8192
+2020-06-24 01:11:45,106 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:11:55,613 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:11:55,656 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:95765df6-0d4c-43e3-b3b0-f7d53769b1f7,port:8198
+2020-06-24 01:12:19,018 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:20:15,343 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:20:15,386 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:f875f5a3-0434-4c90-9d61-ecb0e6ec05ab,port:8412
+2020-06-24 01:20:53,466 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:20:58,956 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:20:59,000 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:809507a4-77d1-4748-9ed2-5cd17b25b20c,port:8858
+2020-06-24 01:21:08,282 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:22:07,225 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:22:07,272 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:0bac597b-fa8c-417e-914f-a922033132f1,port:8744
+2020-06-24 01:25:19,397 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:25:25,480 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:25:25,540 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:95e6374b-799c-4074-a2b0-c0db46eef64d,port:8813
+2020-06-24 01:25:33,791 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-24 01:25:33,884 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:25:33,927 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1280,height:720,url:http://test.webrtc.org,memfile:MainSharedMem,port:8885
+2020-06-24 01:25:35,558 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-24 01:25:35,849 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:25:35,892 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1280,height:720,url:http://test.webrtc.org,memfile:MainSharedMem,port:8885
+2020-06-24 01:26:44,911 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:26:44,953 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:c34eeb15-c26f-4eee-9b49-cb252aebfb75,port:8626
+2020-06-24 01:29:09,472 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:29:43,392 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:29:43,440 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:3332fc4f-8c1b-43e0-9afb-6cdec07d9a45,port:8544
+2020-06-24 01:30:41,868 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:31:58,726 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:31:58,768 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:7b689e36-6a3a-4bea-bef3-d5ed306ed4a1,port:8317
+2020-06-24 01:33:06,518 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:33:26,949 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:33:26,996 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:dee6ccea-a523-41f8-a01d-ad4b1ae91988,port:8993
+2020-06-24 01:34:48,263 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:35:17,659 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:35:17,702 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:378ecff2-347f-491c-851f-06d73268883f,port:8042
+2020-06-24 01:35:30,421 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:36:24,480 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:36:24,526 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:299f1c72-4f8b-41d3-a723-136815deb05e,port:8486
+2020-06-24 01:36:39,132 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:36:54,288 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:36:54,331 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:f49d9eaa-3138-47ee-adbc-2c70862004ea,port:8388
+2020-06-24 01:37:04,492 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2020-06-24 01:37:04,492 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:37:04,997 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2020-06-24 01:37:05,022 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:37:05,513 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2020-06-24 01:37:05,534 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:37:05,982 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:07,996 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:10,012 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:12,030 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:14,051 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:16,064 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:18,077 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:20,094 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:22,112 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:24,128 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:26,153 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:28,170 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:30,187 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:32,219 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:34,252 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:36,242 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:38,260 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:40,278 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:42,290 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:44,306 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:46,329 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:48,344 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:50,363 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:52,375 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:54,407 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:37:56,460 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:00,451 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:02,465 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:04,487 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:06,510 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:08,528 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:10,539 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:12,562 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:14,579 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:16,592 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:18,611 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:20,624 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:22,645 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:24,664 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:26,675 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:28,693 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:32,736 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:34,775 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:36,776 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:38:38,787 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:44:47,197 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:44:47,244 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:30557840-8faa-465e-b87a-b4e4d66d9bb6,port:8314
+2020-06-24 01:45:05,154 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:47:05,654 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:47:05,699 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:eeaa95b3-7c65-42e7-84f1-5cf1c116b8d7,port:8328
+2020-06-24 01:48:09,061 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 01:56:15,128 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 01:56:15,170 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:19ec2bdb-7ac8-4b52-aed0-e2f2c1102c08,port:8680
+2020-06-24 01:56:26,361 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 02:05:28,921 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 02:05:28,977 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:f055c924-64d5-4e49-b1aa-c010add20273,port:8338
+2020-06-24 02:06:29,441 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 02:07:20,610 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 02:07:20,651 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:305a7cb7-71e8-413a-b258-0e00dbe42378,port:8367
+2020-06-24 02:07:49,576 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 02:12:55,894 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 02:12:55,937 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:0609e09e-23b2-4136-b6e6-7727d6301034,port:8171
+2020-06-24 02:13:07,138 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 02:13:10,013 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-24 02:13:13,333 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-24 02:13:59,300 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 02:13:59,344 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:1f609270-e45c-487d-a109-39c2a5fc1abe,port:8907
+2020-06-24 02:14:09,595 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 02:14:29,897 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 02:14:29,939 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:66ed508e-f576-4dc3-b178-7538c0af4634,port:8987
+2020-06-24 02:16:59,924 [11] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 11:33:21,177 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 11:33:21,224 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:83b1f681-b60b-4c93-bdcd-6cc015584b73,port:8413
+2020-06-24 11:33:32,160 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 11:33:37,431 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 11:33:37,464 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:f93f88e4-b5b8-49f3-a648-ef6180bc6a71,port:8128
+2020-06-24 11:33:48,632 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 11:35:38,111 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 11:35:38,165 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:9bcd1efc-00e9-454f-8e5f-f4f042d80878,port:8964
+2020-06-24 11:39:46,639 [18] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 18:04:56,060 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 18:04:56,210 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:2035801f-5305-45d1-8a39-bf593d8267ad,port:8815
+2020-06-24 18:13:09,197 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 18:15:15,040 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 18:15:15,086 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:c3f56b27-0fd4-4ad0-b80d-b6b73cca32f5,port:8527
+2020-06-24 18:21:13,914 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 18:44:09,615 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 18:44:09,668 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:e766f608-9417-45ca-a20a-19e8b11fb93f,port:8593
+2020-06-24 18:44:26,748 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 18:44:30,648 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0
+2020-06-24 18:44:38,294 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 18:44:38,342 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:65985908-3fe3-4fb3-b03f-762d48def8e6,port:8962
+2020-06-24 18:45:22,000 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 18:51:38,627 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 18:51:38,676 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:1affb895-beae-4de5-a7a0-15924d12dc8b,port:8113
+2020-06-24 18:53:45,823 [13] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 19:07:13,699 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 19:07:13,745 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:1a392283-0c83-411f-8f52-81e8d3d10c3b,port:8531
+2020-06-24 19:07:47,820 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-06-24 19:12:28,003 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-06-24 19:12:28,049 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1920,height:1080,url:https://repl.it/@maelren/VSRPG#main.cs,memfile:353e7096-e258-4749-9b6a-701711a1674f,port:8523
+2020-06-24 19:13:14,688 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========

@@ -16,6 +16,9 @@ public class PlayerMovement : MonoBehaviour
     Vector3 velocity;
     bool isGrounded;
 
+    public bool inUI;
+
+
     void Update()
     {
         isGrounded = Physics.CheckSphere(GroundCheck.position, groundDistance, groundMask);
@@ -32,8 +35,20 @@ public class PlayerMovement : MonoBehaviour
         {
             velocity.y = Mathf.Sqrt(jumpHeight * -2 * gravity);
         }
+        if (!inUI)
+        {
+            controller.Move(move);
+            controller.Move(velocity * Time.deltaTime);
+        }
+    }
 
-        controller.Move(move);
-        controller.Move(velocity * Time.deltaTime);
+    public void OnOpenUI()
+    {
+        inUI = true;
+    }
+
+    public void OnCloseUI()
+    {
+        inUI = false;
     }
 }

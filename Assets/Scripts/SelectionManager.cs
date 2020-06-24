@@ -15,7 +15,7 @@ public class SelectionManager : MonoBehaviour
     {
         if (_selection != null)
         {
-            var selectionRenderer = _selection.GetChild(0).GetComponent<MeshRenderer>();
+            var selectionRenderer = _selection.GetChild(0).GetChild(0).GetComponent<MeshRenderer>();
             selectionRenderer.enabled = false;
             _selection = null;
         }
@@ -27,9 +27,7 @@ public class SelectionManager : MonoBehaviour
             var selection = hit.transform;
             if (selection.CompareTag(SelectableTag))
             {
-                //Debug.Log(selection.name);
-
-                var selectionRenderer = selection.GetChild(0).GetComponent<MeshRenderer>();
+                var selectionRenderer = selection.GetChild(0).GetChild(0).GetComponent<MeshRenderer>();
                 if (selectionRenderer != null)
                 {
                     selectionRenderer.enabled = true;

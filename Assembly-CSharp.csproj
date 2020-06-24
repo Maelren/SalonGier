@@ -63,9 +63,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\InfoDestroyer.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\SelectionManager.cs" />
+    <Compile Include="Assets\Scripts\UIController.cs" />
+    <Compile Include="Assets\Scripts\URL.cs" />
     <Compile Include="Assets\Scripts\UseController.cs" />
     <Compile Include="Assets\SimpleWebBrowser\Demo\SampleJSQueryHandler.cs" />
     <Compile Include="Assets\SimpleWebBrowser\Scripts\BrowserEngine.cs" />

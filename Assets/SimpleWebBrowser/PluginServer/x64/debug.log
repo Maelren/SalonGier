@@ -16,3 +16,16 @@
 [0227/170453.974:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
 [0227/170505.326:ERROR:audio_output_device.cc(425)] IO loop going away before the audio device has been stopped
 [0227/170506.672:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0617/171119.053:ERROR:broker_win.cc(59)] Error reading broker pipe: Potok zosta³ zakoñczony. (0x6D)
+[0617/171205.627:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0617/171206.738:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0617/171206.778:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0623/002939.556:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 53
+[0623/002939.557:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 55
+[0623/225353.651:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[0000025EAAA18780:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0623/225353.652:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[0000025EA909B490:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0623/230116.349:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[00000234D7382F30:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0623/230116.349:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[00000234D7383650:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0624/001154.853:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0624/004641.731:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0624/013704.508:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 13

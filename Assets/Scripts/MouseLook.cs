@@ -15,14 +15,17 @@ public class MouseLook : MonoBehaviour
 
     void Update()
     {
-        float mouseX = Input.GetAxis("Mouse X") * MouseSensitivity * Time.deltaTime;
-        float mouseY = Input.GetAxis("Mouse Y") * MouseSensitivity * Time.deltaTime;
+        if (!Player.GetComponent<PlayerMovement>().inUI)
+        {
+            float mouseX = Input.GetAxis("Mouse X") * MouseSensitivity * Time.deltaTime;
+            float mouseY = Input.GetAxis("Mouse Y") * MouseSensitivity * Time.deltaTime;
 
-        Player.Rotate(Vector3.up * mouseX);
+            Player.Rotate(Vector3.up * mouseX);
 
-        rotation -= mouseY;
-        rotation = Mathf.Clamp(rotation, -90f, 90f);
+            rotation -= mouseY;
+            rotation = Mathf.Clamp(rotation, -90f, 90f);
 
-        transform.localRotation = Quaternion.Euler(rotation, 0f, 0f);
+            transform.localRotation = Quaternion.Euler(rotation, 0f, 0f);
+        }
     }
 }
